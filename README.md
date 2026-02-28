@@ -29,20 +29,24 @@ The Nurture frontend is built with a focus on **User Experience (UX)** and **Per
 ## ⚙️ Installation & Development
 
 ### 1. Clone the Repository
+` ` `
 git clone [https://github.com/GanagallaJoshitha/home-garden-assistant-frontend.git](https://github.com/GanagallaJoshitha/home-garden-assistant-frontend.git)
 cd home-garden-assistant-frontend
-
+` ` `
 ### 2. Install Dependencies
-Bash
+` ` `
 npm install
+` ` `
 ### 3. Configure Environment
 Create a .env file in the root directory:
 Code snippet:
+` ` `
 VITE_API_URL=https://your-backend-on-render.com/api
-
+` ` `
 ### 4. Start Application
+` ` `
 npm run dev
-
+` ` `
 ### 🌐 Deployment & Links
 Live Demo (Netlify): [Deployment in Progress]
 
@@ -56,3 +60,16 @@ Email: demo@nurture.ai
 Password: demo12
 
 (Or use the "Try Demo" button on the Landing Page)
+
+### Screenshots 
+
+
+
+
+
+
+
+
+
+### Video WalkThrough
+
