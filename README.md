@@ -38,7 +38,8 @@ cd home-garden-assistant-frontend
 npm install
 ` ` `
 ### 3. Configure Environment
-Create a .env file in the root directory:
+Create a .env file in the root directory
+
 Code snippet:
 ` ` `
 VITE_API_URL=https://your-backend-on-render.com/api
